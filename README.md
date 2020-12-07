@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Dikosec
+# I'm Diko
 - National Institute of Technology, Ibaraki College
 - Interested in Cryptography ( especially FHE )
 - I'm a member of [POWER 50Hz](https://hackmd.io/-LRQN4hrSWOQd9gCVOSkuA?view)

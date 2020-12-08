@@ -3,6 +3,7 @@
 # I'm Diko
 - National Institute of Technology, Ibaraki College
 - Interested in Cryptography ( especially FHE )
+- I attended a Securty Camp 2020 and learned about TFHE
 - I'm a member of [POWER 50Hz](https://hackmd.io/-LRQN4hrSWOQd9gCVOSkuA?view)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikosec&layout=compact&theme=radical&hide=Assembly,CMake)](https://github.com/anuraghazra/github-readme-stats)

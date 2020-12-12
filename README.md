@@ -5,6 +5,7 @@
 - I interested in Cryptography ( especially FHE )
 - I attended a Securty Camp 2020 and learned about TFHE
 - I'm a member of [POWER 50Hz](https://hackmd.io/-LRQN4hrSWOQd9gCVOSkuA?view)
+- My Blog -> [dikolog](https://dikosec.hatenablog.com/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikosec&layout=compact&theme=radical&hide=Assembly,CMake)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# I'm Diko
+# I'm RIKUO
 - I’ve graduated National Institute of Technology, Ibaraki College Advanced Course.
 - I’m studying at Nara Institute of Science and Technology (NAIST).
 - I interested in Cryptography ( especially FHE )

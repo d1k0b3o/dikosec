@@ -5,7 +5,6 @@
 - I’m studying at Nara Institute of Science and Technology (NAIST).
 - I interested in Cryptography ( especially FHE )
 - I attended a Securty Camp 2020 and learned about TFHE
-- [Study for CTF](https://hackmd.io/@dikosec)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikosec&layout=compact&theme=radical&hide=Assembly,CMake)](https://github.com/anuraghazra/github-readme-stats)
 
